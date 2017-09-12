@@ -6,3 +6,7 @@
 
 <h3>O que é o Yad</h3>
 É uma ferramenta para criar diálogos gráficos a partir de scripts de shell
+
+<h2>Projetos</h2>
+
+<h4><a href="https://github.com/WalderlanSena/yad">Gerador de Crachá Automático</a></h4>
