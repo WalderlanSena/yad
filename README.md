@@ -9,4 +9,5 @@
 
 <h2>Projetos</h2>
 
-<h4><a href="https://github.com/WalderlanSena/yad">Gerador de Crachá Automático</a></h4>
+<h4><a href="https://github.com/WalderlanSena/yad/tree/master/geradorDeCrachar">Gerador de Crachá Automático</a></h4>
+<p align="justify">Crie crachás personalizados para seus eventos, empresas etc. De forma gratuita e eficiente.
